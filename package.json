@@ -1,0 +1,22 @@
+{
+  "name": "gh-blog",
+  "version": "0.0.1",
+  "description": "Blog with GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyMind/gh-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "SyMind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyMind/gh-blog/issues"
+  },
+  "homepage": "https://github.com/SyMind/gh-blog#readme"
+}
